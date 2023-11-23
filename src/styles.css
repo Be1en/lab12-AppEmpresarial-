@@ -1,0 +1,29 @@
+.contenedor{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh; 
+    background-image: '../src/fondo.jpeg';
+    background-image: url('../src/fondo.jpeg');
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: linear-gradient(to right, #3498db, #000000);
+}
+
+.Col .Row{
+    margin: 10px;
+}
+.tarjeta {
+    margin: 10px;
+  }
+label{
+    color: #FFFF;
+    margin-right: 10px;
+}
